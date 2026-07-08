@@ -64,21 +64,16 @@ Optimized for:
 - Tablet
 - Mobile Devices
 
-Media queries are implemented throughout the project to ensure a consistent experience across different screen sizes.
-
 # 🛠️ Tech Stack Used
 
-### Frontend
-
-- React 19
-- Vite
-- Framer Motion
-- React Icons
-- Vanilla CSS
-
-### Development Tools
-
-- ESLint
+- 💻 **Language:** JavaScript (ES6+)
+- ⚛️ **Frontend:** React 19
+- ⚡ **Build Tool:** Vite
+- 🎬 **Animation Library:** Framer Motion
+- 🎨 **Styling:** Vanilla CSS
+- 🖼️ **Icon Library:** React Icons
+- 🧹 **Code Quality:** ESLint
+- 🌐 **Deployment:** Vercel
 
 # 📸 Screenshots / Demo
 
