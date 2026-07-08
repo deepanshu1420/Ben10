@@ -1,4 +1,4 @@
-# 🟢 Ben 10 Alien Force
+# 👽 Ben 10 Alien Force
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=flat&logo=vite&logoColor=white)
@@ -9,7 +9,7 @@
 
 **Ben 10** is a modern, interactive, and fully responsive fan-made website inspired by the iconic `Ben 10 Alien Force` series. Built with **React** and **Vite**, it blends cinematic animations, dynamic visuals, and seamless navigation into an immersive web experience.
 
-**👽 See your favorite Ben 10 aliens in action :** [Live Demo](https://ben10universe.vercel.app/)
+**🌐 See your favorite Ben 10 aliens in action :** [Live Demo](https://ben10universe.vercel.app/)
 
 # ✨ Features / Highlights
 
@@ -86,7 +86,7 @@
 - 🎨 **Styling:** Vanilla CSS
 - 🖼️ **Icon Library:** React Icons
 - 🧹 **Code Quality:** ESLint
-- 🌐 **Deployment:** Vercel
+- 🔗 **Deployment:** Vercel
 
 # ⚙️ Setup & Installation
 
