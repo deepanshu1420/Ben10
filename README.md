@@ -64,17 +64,6 @@ Optimized for:
 - Tablet
 - Mobile Devices
 
-# 🛠️ Tech Stack Used
-
-- 💻 **Language:** JavaScript (ES6+)
-- ⚛️ **Frontend:** React 19
-- ⚡ **Build Tool:** Vite
-- 🎬 **Animation Library:** Framer Motion
-- 🎨 **Styling:** Vanilla CSS
-- 🖼️ **Icon Library:** React Icons
-- 🧹 **Code Quality:** ESLint
-- 🌐 **Deployment:** Vercel
-
 # 📸 Screenshots / Demo
 
 > Add screenshots of your project here.
@@ -89,36 +78,49 @@ screenshots/
 └── Mobile.png
 ```
 
+# 🛠️ Tech Stack Used
+
+- 💻 **Language:** JavaScript (ES6+)
+- ⚛️ **Frontend:** React 19
+- ⚡ **Build Tool:** Vite
+- 🎬 **Animation Library:** Framer Motion
+- 🎨 **Styling:** Vanilla CSS
+- 🖼️ **Icon Library:** React Icons
+- 🧹 **Code Quality:** ESLint
+- 🌐 **Deployment:** Vercel
+
 # ⚙️ Setup & Installation
 
-### 1. Clone the repository
+To set up and run the project locally, follow these steps below:
+
+### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ben10.git
+git clone https://github.com/deepanshu1420/Ben10.git
 ```
 
-### 2. Navigate to the project folder
+### 2️⃣ Navigate to the project directory
 
 ```bash
 cd ben10
 ```
 
-### 3. Install dependencies
+### 3️⃣ Install the required dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Start the development server
+### 4️⃣ Start the development server
 
 ```bash
 npm run dev
 ```
 
-### 5. Build for production
+✅ **That's it!** The project should now be running locally at:
 
-```bash
-npm run build
+```text
+http://localhost:5173
 ```
 
----
+Open the URL in your browser and start exploring the **Ben 10 Alien Force** experience.
