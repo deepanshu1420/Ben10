@@ -50,10 +50,10 @@
 - Character descriptions with clean responsive cards.
 - Footer containing copyright information and GitHub profile.
 
-### ⬆️ Back to Top & 📱 Responsive Design
+### 📱 Responsive Design & ⬆️ Back to Top
 
-- Floating **Back to Top** button appears after scrolling and provides smooth navigation back to the top of the page.
 - Fully responsive design optimized for **desktop, laptop, tablet, and mobile devices**.
+- Floating **Back to Top** button appears after scrolling and provides smooth navigation back to the top of the page.
 
 # 📸 Screenshots / Demo
 
