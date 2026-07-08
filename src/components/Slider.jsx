@@ -9,69 +9,79 @@ const Slider = ({ sliderRef }) => {
       name: "Swampfire",
       img: "/images/slider4.png",
       description:
-        "A methane-based alien with plant powers and the ability to ignite flames." +
-        "Swampfire is covered with a tough, bark-like skin that makes him resistant to physical damage." +
-        "He can regenerate his body by growing new limbs from plant matter, making him nearly unstoppable in battle." +
-        "Besides offense, Swampfire uses his vines and roots for defense, trapping enemies or shielding allies." +
-        "His flames can burn even underwater, giving him a terrifying edge in combat.",
+        "A methane-based alien with plant powers and the ability to ignite flames. " +
+        "Swampfire is covered with a tough, bark-like skin that makes him resistant to physical damage. " +
+        "He can regenerate his body by growing new limbs from plant matter, making him nearly unstoppable in battle. " +
+        "Besides offense, Swampfire uses his vines and roots for defense, trapping enemies or shielding allies. " +
+        "His flames can burn even underwater, giving him a terrifying edge in combat. ",
       background: "linear-gradient(135deg, #0a0f2c, #0d3b1f)",
     },
     {
       name: "Humungousaur",
       img: "/images/slider6.png",
       description:
-        "A giant dinosaur-like alien with immense strength and durability." +
-        "Standing over 12 feet tall, Humungousaur’s sheer size makes him a powerhouse in any fight." +
-        "He can increase his body size up to nearly 60 feet, making his strength and impact even greater." +
-        "Despite his massive build, Humungousaur is surprisingly agile and can react quickly in combat." +
-        "His thick, armor-like skin provides natural protection against most forms of attack, allowing him to charge headfirst into danger.",
+        "A giant dinosaur-like alien with immense strength and durability. " +
+        "Standing over 12 feet tall, Humungousaur’s sheer size makes him a powerhouse in any fight. " +
+        "He can increase his body size up to nearly 60 feet, making his strength and impact even greater. " +
+        "Despite his massive build, Humungousaur is surprisingly agile and can react quickly in combat. " +
+        "His thick, armor-like skin provides natural protection against most forms of attack, allowing him to charge headfirst into danger. ",
       background: "linear-gradient(135deg, #1a0f0f, #4d1a1a)",
     },
     {
       name: "Big Chill",
       img: "/images/slider1.png",
       description:
-        "A moth-like alien with the power of intangibility and ice breath." +
-        "Big Chill can phase through solid objects, making him nearly impossible to trap or contain." +
-        "His wings allow him to fly silently through the air, striking fear into his enemies with ghost-like movements." +
-        "He can exhale freezing winds capable of encasing opponents in solid ice within seconds.\n\n" +
-        "Despite his eerie and mysterious appearance, Big Chill is a calm and strategic fighter who prefers precision over brute force.",
+        "A moth-like alien with the power of intangibility and ice breath. " +
+        "Big Chill can phase through solid objects, making him nearly impossible to trap or contain. " +
+        "His wings allow him to fly silently through the air, striking fear into his enemies with ghost-like movements. " +
+        "He can exhale freezing winds capable of encasing opponents in solid ice within seconds. " +
+        "Despite his eerie and mysterious appearance, Big Chill is a calm and strategic fighter who prefers precision over brute force. ",
       background: "linear-gradient(135deg, #0a0f2c, #1e3c72)",
     },
     {
       name: "Echo Echo",
       img: "/images/slider2.png",
       description:
-        "A small silicon-based alien capable of creating sonic clones." +
-        "Echo Echo’s primary ability is to duplicate himself, overwhelming opponents with sheer numbers." +
-        "Each clone is fully functional, allowing him to coordinate attacks or distract enemies with ease." +
-        "He can unleash powerful sonic screams that disorient foes and shatter obstacles." +
-        "Despite his small size, Echo Echo’s versatility and teamwork abilities make him one of the most resourceful aliens in Ben’s arsenal.",
+        "A small silicon-based alien capable of creating sonic clones. " +
+        "Echo Echo’s primary ability is to duplicate himself, overwhelming opponents with sheer numbers. " +
+        "Each clone is fully functional, allowing him to coordinate attacks or distract enemies with ease. " +
+        "He can unleash powerful sonic screams that disorient foes and shatter obstacles. " +
+        "Despite his small size, Echo Echo’s versatility and teamwork abilities make him one of the most resourceful aliens in Ben’s arsenal. ",
       background: "linear-gradient(135deg, #1a1a1a, #444444)",
     },
     {
       name: "Chromastone",
       img: "/images/slider5.png",
       description:
-        "A crystalline alien with the ability to absorb and channel energy." +
-        "Chromastone’s body is composed of nearly indestructible crystal, making him resistant to physical and energy-based attacks.\n\n" +
-        "He can absorb energy blasts and redirect them as powerful beams of raw force." +
-        "His glowing body emits radiant light, often intimidating enemies before the battle even begins." +
-        "Chromastone combines durability, energy control, and striking appearance, making him a defensive powerhouse and offensive weapon at the same time.",
+        "A crystalline alien with the ability to absorb and channel energy. " +
+        "Chromastone’s body is composed of nearly indestructible crystal, making him resistant to physical and energy-based attacks. " +
+        "He can absorb energy blasts and redirect them as powerful beams of raw force. " +
+        "His glowing body emits radiant light, often intimidating enemies before the battle even begins. " +
+        "Chromastone combines durability, energy control, and striking appearance, making him a defensive powerhouse and offensive weapon at the same time. ",
       background: "linear-gradient(135deg, #220a2c, #6e1f7c)",
     },
     {
       name: "Rath",
       img: "/images/slider3.png",
       description:
-        "A tiger-like alien with unmatched strength and ferocity." +
-        "Rath is covered in orange fur with black stripes, sharp claws, and a muscular build that makes him a fearsome close-combat fighter." +
-        "He is extremely hot-headed and rushes into battle without hesitation, often relying on brute force over strategy." +
-        "Despite his reckless nature, Rath’s durability and power allow him to overpower most opponents in hand-to-hand combat." +
-        "His personality is loud, aggressive, and confrontational, but underneath the rage lies a heroic drive to protect those in need.",
+        "A tiger-like alien with unmatched strength and ferocity. " +
+        "Rath is covered in orange fur with black stripes, sharp claws, and a muscular build that makes him a fearsome close-combat fighter. " +
+        "He is extremely hot-headed and rushes into battle without hesitation, often relying on brute force over strategy. " +
+        "Despite his reckless nature, Rath’s durability and power allow him to overpower most opponents in hand-to-hand combat. " +
+        "His personality is loud, aggressive, and confrontational, but underneath the rage lies a heroic drive to protect those in need. ",
       background: "linear-gradient(135deg, #2c0a0a, #ff6600)",
     },
-  ];
+    {
+      name: "Terraspin",
+      img: "/images/slider7.png",
+      description:
+        "A wind-powered turtle alien with mastery over powerful air currents and aerial mobility. " +
+        "Terraspin can generate powerful tornadoes by spinning his shell, sweeping away enemies and deflecting attacks. " +
+        "He can levitate and glide effortlessly through the air, making him highly agile in combat. " +
+        "Immune to mana-based magic, Terraspin combines durability, flight, and wind manipulation to dominate the battlefield. ",
+      background: "linear-gradient(135deg, #0b3d2e, #39b54a)",
+    },
+];
 
   const [index, setIndex] = useState(0);
   const [direction, setDirection] = useState("next");
@@ -169,9 +179,7 @@ const Slider = ({ sliderRef }) => {
        transition={{duration:0.6, ease : "easeInOut"}}
           >
             <h1>{aliens[index].name}</h1>
-            {aliens[index].description.split("\n\n").map((para, i) => (
-              <p key={i}>{para}</p>
-            ))}
+            <p>{aliens[index].description}</p>
           </motion.div>
         </AnimatePresence>
       </div>
