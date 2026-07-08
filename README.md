@@ -1,11 +1,11 @@
 # 🟢 Ben 10 Alien Force
 
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Animation-0055FF?style=flat-square&logo=framer&logoColor=white)
-![React Icons](https://img.shields.io/badge/React%20Icons-E91E63?style=flat-square&logo=react&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-Code%20Quality-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=flat&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Animation-0055FF?style=flat&logo=framer&logoColor=white)
+![React Icons](https://img.shields.io/badge/React%20Icons-E91E63?style=flat&logo=react&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat&logo=css3&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-Code%20Quality-4B32C3?style=flat&logo=eslint&logoColor=white)
 
 - `Ben 10 Alien Force` is a modern, interactive, and fully responsive fan-made website inspired by the iconic **Ben 10: Alien Force** series. Built with **React** and **Vite**, it delivers a smooth and engaging experience through dynamic animations and a modern UI.
 
