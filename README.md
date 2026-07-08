@@ -6,7 +6,7 @@
 ![React Icons](https://img.shields.io/badge/React%20Icons-E91E63?style=flat&logo=react&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat&logo=css3&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-Code%20Quality-4B32C3?style=flat&logo=eslint&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000?style=flat&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-F7DC6F?style=flat&logo=vercel&logoColor=white)
 
 **Ben 10** is a modern, interactive, and fully responsive fan-made website inspired by the iconic `Ben 10 Alien Force` series. Built with **React** and **Vite**, it blends cinematic animations, dynamic visuals, and seamless navigation into an immersive web experience.
 
