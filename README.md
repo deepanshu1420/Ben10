@@ -55,17 +55,27 @@
 
 # 📸 Screenshots / Demo
 
-> Add screenshots of your project here.
+> Take a look at some screenshots showcasing the website.
 
-Example:
+### 🏠 Home
 
-```
-screenshots/
-├── Home.png
-├── Alien-Slider.png
-├── Team.png
-└── Mobile.png
-```
+![Home](screenshots/Home.png)
+*The landing page featuring an animated hero section, smooth navigation, and an immersive Ben 10 experience.*
+
+### 👾 Aliens Showcase
+
+![Aliens Showcase](screenshots/AliensShowcase.png)
+*Explore iconic Ben 10 aliens with dynamic backgrounds, cinematic animations, and interactive transitions.*
+
+### 👥 Team Showcase
+
+![Team Showcase](screenshots/TeamShowcase.png)
+*Meet the Alien Force team, including Ben Tennyson, Gwen Tennyson, and Kevin Levin in a dedicated showcase section.*
+
+### 📲 Responsive Design
+
+![Responsive Design](screenshots/Responsive.png)
+*Optimized for desktop, tablet, and mobile devices to deliver a seamless experience across all screen sizes.*
 
 # 🛠️ Tech Stack Used
 
@@ -112,4 +122,4 @@ npm run dev
 http://localhost:5173
 ```
 
-Open the URL in your browser and start exploring the **Ben 10 Alien Force** experience. ☄️
+Open the URL in your browser and start exploring the `Ben 10 Alien Force` experience. ☄️
