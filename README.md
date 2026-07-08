@@ -18,7 +18,7 @@
 ### 🚀 Interactive Navigation
 
 - Smooth scrolling navigation between sections.
-- Responsive hamburger menu for tablets and mobile devices.
+- Responsive `hamburger menu` for tablets and mobile devices.
 - Auto-hiding navbar while scrolling.
 - Quick GitHub access along with Login and Sign Up buttons.
 
