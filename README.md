@@ -7,13 +7,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-Code_Quality-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
-## 📖 Introduction
+- `Ben 10 Alien Force` is a modern, interactive, and fully responsive fan-made website inspired by the iconic **Ben 10: Alien Force** series. Built with **React** and **Vite**, it delivers a smooth and engaging experience through dynamic animations and a modern UI.
 
-**Ben 10 Alien Force** is a modern, interactive, and fully responsive fan-made website inspired by the iconic **Ben 10: Alien Force** series. Built using **React** and **Vite**, the project combines smooth animations, immersive UI elements, and dynamic interactions to deliver an engaging user experience.
+- The website features an animated hero section, an interactive alien showcase with dynamic backgrounds, responsive navigation, and seamless **Framer Motion** transitions, providing a consistent experience across desktop, tablet, and mobile devices.
 
-The website features an animated hero section, a visually rich alien showcase with dynamic backgrounds, responsive navigation, floating particle effects, and seamless transitions powered by **Framer Motion**. Every section has been carefully designed to provide a clean, modern interface while remaining fully responsive across desktops, tablets, and mobile devices.
-
-🔗 **Live Website:** https://your-vercel-link.vercel.app
+**👽 See your favorite Ben 10 aliens in action :** [Live Demo](https://ben10universe.vercel.app/)
 
 # ✨ Features / Highlights
 
