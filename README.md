@@ -65,7 +65,8 @@
 
 ### 👾 Aliens Showcase
 
-![Aliens Showcase](screenshots/AliensShowcase.png)
+![Aliens Showcase 1](screenshots/AliensShowcase1.png) 
+![Aliens Showcase 2](screenshots/AliensShowcase2.png)
 *Explore iconic Ben 10 aliens with dynamic backgrounds, cinematic animations, and interactive transitions.*
 
 ### 👥 Team Showcase
