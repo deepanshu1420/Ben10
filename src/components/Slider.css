@@ -129,11 +129,11 @@
 @media (max-width:768px){
 
   .slider{
-    flex-direction:column;
-    justify-content:center;
+    flex-direction: column;
+    justify-content: center;
 
-    padding:100px 20px 40px;
-    min-height:100vh;
+    padding: 30px 20px 120px;
+    min-height: 100svh;
   }
 
   .slider-images{
@@ -149,7 +149,7 @@
   .slider-info{
     order:2;
     max-width:100%;
-    margin-top:20px;
+    margin-top:8px;
     text-align:center;
   }
 
@@ -160,13 +160,15 @@
 
   .slider-info p{
     width:100%;
+    max-width:340px;
+    margin:0 auto;
     font-size:14px;
     line-height:1.8;
   }
 
   .arrow{
     top:auto;
-    bottom:25px;
+    bottom:110px;
   }
 
   .left-arrow{
@@ -188,7 +190,7 @@
 @media (max-width:480px){
 
   .slider{
-    padding:90px 15px 30px;
+    padding:20px 15px 120px;
   }
 
   .slider-images{
