@@ -22,7 +22,7 @@
 - Auto-hiding navbar while scrolling.
 - Quick GitHub access along with Login and Sign Up buttons.
 
-### 👽 Animated Hero Section
+### 🎬 Animated Hero Section
 
 - Infinite scrolling alien carousel.
 - Beautiful animated floating bubble background.
