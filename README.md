@@ -102,7 +102,7 @@ git clone https://github.com/deepanshu1420/Ben10.git
 ### 2️⃣ Navigate to the project directory
 
 ```bash
-cd ben10
+cd Ben10
 ```
 
 ### 3️⃣ Install the required dependencies
