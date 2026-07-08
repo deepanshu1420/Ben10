@@ -48,7 +48,7 @@ const Navbar = ({ hidden, aliensRef, aboutRef }) => {
 
       <div className="nav-buttons">
         <a
-          href="https://github.com/deepanshu1420"
+          href="https://github.com/deepanshu1420/Ben10.git"
           target="_blank"
           rel="noopener noreferrer"
           className="github-link"
