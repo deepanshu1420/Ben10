@@ -1,0 +1,212 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap");
+
+.team-section {
+  background: linear-gradient(135deg, #07140d, #0b2919);
+}
+
+.team {
+  width: 100%;
+  height: 100vh;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 60px 80px 20px;
+
+  background: transparent;
+  overflow: hidden;
+}
+
+/* ========================= */
+/* Left */
+/* ========================= */
+
+.team-image {
+  flex: 1;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.team-image img {
+  width: 480px;
+  max-width: 100%;
+  max-height: 80vh;
+  object-fit: contain;
+
+  cursor: pointer;
+  transition: transform 0.4s ease, filter 0.4s ease;
+}
+
+.team-image img:hover {
+  transform: scale(1.05);
+  filter: drop-shadow(0 0 30px rgba(0, 255, 136, 0.5));
+}
+
+/* ========================= */
+/* Right */
+/* ========================= */
+
+.team-content {
+  flex: 1;
+  padding-left: 70px;
+}
+
+.team-content h1 {
+  font-family: "Orbitron", sans-serif;
+  color: #00ff88;
+  font-size: 52px;
+  margin-bottom: 25px;
+}
+
+.team-content p {
+  color: #ddd;
+  font-family: "Orbitron", sans-serif;
+  font-size: 17px;
+  line-height: 2;
+  margin-bottom: 20px;
+}
+
+.team-btn {
+  margin-top: 20px;
+
+  padding: 14px 34px;
+
+  border: 2px solid #00ff88;
+  border-radius: 40px;
+
+  background: #00ff88;
+  color: black;
+
+  font-family: "Orbitron", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.team-btn:hover {
+  background: transparent;
+  color: #00ff88;
+}
+
+/* ========================= */
+/* Tablet */
+/* ========================= */
+
+@media (max-width: 1024px) {
+
+  .team {
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    height: auto;
+    min-height: 100vh;
+
+    padding: 80px 40px;
+  }
+
+  .team-image img {
+    width: 420px;
+    max-height: 55vh;
+  }
+
+  .team-content {
+    padding-left: 0;
+    margin-top: 40px;
+  }
+
+  .team-content h1 {
+    font-size: 40px;
+  }
+
+  .team-content p {
+    font-size: 16px;
+    line-height: 1.9;
+  }
+}
+
+/* ========================= */
+/* Mobile */
+/* ========================= */
+
+@media (max-width: 768px) {
+
+  .team {
+    padding: 90px 20px 50px;
+  }
+
+  .team-image img {
+    width: 280px;
+    max-height: 45vh;
+  }
+
+  .team-content h1 {
+    font-size: 28px;
+  }
+
+  .team-content p {
+    font-size: 14px;
+    line-height: 1.8;
+  }
+
+  .team-btn {
+    padding: 12px 28px;
+    font-size: 13px;
+  }
+}
+
+/* ========================= */
+/* Footer */
+/* ========================= */
+
+.footer {
+  width: 100%;
+  padding: 16px 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: transparent;
+}
+
+.footer p {
+  color: #bfbfbf;
+  font-family: "Orbitron", sans-serif;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.footer-link {
+  color: #bfbfbf;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-link:hover {
+  color: #00ff88;
+}
+
+.footer-line {
+  display: inline;
+}
+
+/* Mobile Footer */
+@media (max-width: 768px) {
+  .footer p {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    line-height: 1.6;
+  }
+
+  .footer-line {
+    display: block;
+  }
+}

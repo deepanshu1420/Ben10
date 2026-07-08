@@ -1,0 +1,86 @@
+.back-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+
+  width: 60px;
+  height: 60px;
+
+  border: 2px solid rgba(0, 255, 136, 0.6);
+  border-radius: 50%;
+
+  background: rgba(8, 25, 15, 0.25);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+
+  color: #00ff88;
+  font-size: 22px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  cursor: pointer;
+
+  opacity: 0;
+  visibility: hidden;
+
+  transform: translateY(20px) scale(0.8);
+
+  transition: all 0.35s ease;
+
+  box-shadow:
+    0 0 10px rgba(0, 255, 136, 0.35),
+    0 0 20px rgba(0, 255, 136, 0.18);
+
+  z-index: 9999;
+}
+
+.back-to-top.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0) scale(1);
+}
+
+.back-to-top:hover {
+  transform: translateY(-6px) scale(1.08);
+
+  background: rgba(0, 255, 136, 0.15);
+  color: #00ff88;
+
+  box-shadow:
+    0 0 18px rgba(0, 255, 136, 0.8),
+    0 0 35px rgba(0, 255, 136, 0.5);
+}
+
+.back-to-top:active {
+  transform: scale(0.95);
+}
+
+/* Tablet */
+
+@media (max-width: 1024px) {
+
+  .back-to-top {
+    width: 55px;
+    height: 55px;
+    font-size: 20px;
+    right: 25px;
+    bottom: 25px;
+  }
+
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+
+  .back-to-top {
+    width: 50px;
+    height: 50px;
+    font-size: 18px;
+    right: 20px;
+    bottom: 20px;
+  }
+
+}

@@ -1,0 +1,208 @@
+.hero {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background: transparent;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Slider Wrapper */
+.slider-wrapper {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+
+  padding: 40px 0;
+  margin-top: 100px;
+}
+
+.slider-track {
+  display: flex;
+  width: max-content;
+
+  animation: scroll 12s linear infinite;
+
+  will-change: transform;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+/* Alien Row */
+.alien-slider {
+  display: flex;
+  gap: 50px;
+}
+
+/* Cards */
+.alien-card {
+  width: 250px;
+  height: 340px;
+
+  flex-shrink: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  overflow: visible;
+}
+
+.alien-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  cursor: pointer;
+  will-change: transform;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+
+  transition: transform 0.35s ease, filter 0.35s ease;
+}
+
+.alien-card img:hover {
+  transform: translateY(-10px) scale(1.05);
+  filter: drop-shadow(0 0 20px rgba(0, 255, 120, 0.5));
+}
+
+/* Infinite Scroll */
+
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.slider-wrapper::before,
+.slider-wrapper::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 150px;
+  height: 100%;
+  z-index: 5;
+  pointer-events: none;
+}
+
+.slider-wrapper::before {
+  left: 0;
+  background: linear-gradient(
+    to right,
+    rgba(2, 29, 13, 0.55) 0%,
+    rgba(2, 29, 13, 0.25) 40%,
+    rgba(2, 29, 13, 0.08) 70%,
+    rgba(2, 29, 13, 0) 100%
+  );
+}
+
+.slider-wrapper::after {
+  right: 0;
+  background: linear-gradient(
+    to left,
+    rgba(2, 29, 13, 0.55) 0%,
+    rgba(2, 29, 13, 0.25) 40%,
+    rgba(2, 29, 13, 0.08) 70%,
+    rgba(2, 29, 13, 0) 100%
+  );
+}
+
+/* ========================================= */
+/* Tablet */
+/* ========================================= */
+
+@media (max-width: 1024px) {
+
+  .slider-wrapper {
+    margin-top: 80px;
+    padding: 30px 0;
+  }
+
+  .alien-slider {
+    gap: 35px;
+  }
+
+  .alien-card {
+    width: 210px;
+    height: 290px;
+  }
+
+  .slider-wrapper::before,
+  .slider-wrapper::after {
+    width: 110px;
+  }
+
+}
+
+/* ========================================= */
+/* Large Phones */
+/* ========================================= */
+
+@media (max-width: 768px) {
+
+  .slider-wrapper {
+    margin-top: 60px;
+    padding: 20px 0;
+  }
+
+  .alien-slider {
+    gap: 25px;
+  }
+
+  .alien-card {
+    width: 160px;
+    height: 220px;
+  }
+
+  .slider-track {
+    animation-duration: 10s;
+  }
+
+  .slider-wrapper::before,
+  .slider-wrapper::after {
+    width: 70px;
+  }
+
+}
+
+/* ========================================= */
+/* Small Phones */
+/* ========================================= */
+
+@media (max-width: 480px) {
+
+  .hero {
+    justify-content: center;
+    overflow-x: hidden;
+    overflow-y: visible;
+  }
+
+  .slider-wrapper {
+    margin-top: 70px;
+    padding: 30px 0;
+  }
+
+  .alien-slider {
+    gap: 18px;
+  }
+
+  .alien-card {
+    width: 120px;
+    height: 170px;
+  }
+
+  .slider-track {
+    animation-duration: 8s;
+  }
+
+  .slider-wrapper::before,
+  .slider-wrapper::after {
+    width: 40px;
+  }
+
+}
