@@ -29,13 +29,14 @@
 
 ### ⚡ Interactive Alien Showcase
 
-- Explore multiple Alien Force aliens including:
+- Explore multiple Alien Force transformations including:
   - Swampfire
   - Humungousaur
   - Big Chill
   - Echo Echo
   - Chromastone
   - Rath
+  - Terraspin
 - Dynamic gradient backgrounds that change with each alien.
 - Smooth animated transitions using Framer Motion.
 - 3D-inspired image positioning with scaling, blur, opacity, and depth effects.
