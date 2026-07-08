@@ -81,7 +81,7 @@
 # 🛠️ Tech Stack Used
 
 - 💻 **Language:** JavaScript (ES6+)
-- ⚛️ **Frontend:** React 19
+- ⚛️ **Frontend:** React v19
 - ⚡ **Build Tool:** Vite
 - 🎬 **Animation Library:** Framer Motion
 - 🎨 **Styling:** Vanilla CSS
