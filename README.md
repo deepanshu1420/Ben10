@@ -7,9 +7,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat&logo=css3&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-Code%20Quality-4B32C3?style=flat&logo=eslint&logoColor=white)
 
-- `Ben 10 Alien Force` is a modern, interactive, and fully responsive fan-made website inspired by the iconic **Ben 10: Alien Force** series. Built with **React** and **Vite**, it delivers a smooth and engaging experience through dynamic animations and a modern UI.
-
-- The website features an animated hero section, an interactive alien showcase with dynamic backgrounds, responsive navigation, and seamless **Framer Motion** transitions, providing a consistent experience across desktop, tablet, and mobile devices.
+**Ben 10** is a modern, interactive, and fully responsive fan-made website inspired by the iconic `Ben 10 Alien Force` series. Built with **React** and **Vite**, it blends cinematic animations, dynamic visuals, and seamless navigation into an immersive web experience.
 
 **👽 See your favorite Ben 10 aliens in action :** [Live Demo](https://ben10universe.vercel.app/)
 
