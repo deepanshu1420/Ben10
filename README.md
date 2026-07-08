@@ -53,7 +53,7 @@
 ### 📱 Responsive Design & ⬆️ Back to Top
 
 - Fully responsive design optimized for **desktop, laptop, tablet, and mobile devices**.
-- Floating **Back to Top** button appears after scrolling and provides smooth navigation back to the top of the page.
+- Floating `Back to Top` button appears after scrolling and provides smooth navigation back to the top of the page.
 
 # 📸 Screenshots / Demo
 
