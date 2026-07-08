@@ -123,4 +123,4 @@ npm run dev
 http://localhost:5173
 ```
 
-Open the URL in your browser and start exploring the **Ben 10 Alien Force** experience.
+Open the URL in your browser and start exploring the **Ben 10 Alien Force** experience. ☄️
