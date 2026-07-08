@@ -90,7 +90,7 @@
 
 # ⚙️ Setup & Installation
 
-To set up and run the project locally, follow these steps below:
+> To set up and run the project locally, follow these steps below:
 
 ### 1️⃣ Clone the repository
 
